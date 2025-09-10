@@ -1,0 +1,19 @@
+{
+  "name": "sarvam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tts": "node server.js",
+    "stt": "node stt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "sarvamai": "^0.1.7"
+  }
+}
