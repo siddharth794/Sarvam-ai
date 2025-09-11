@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tts": "node server.js",
-    "stt": "node stt.js"
+    "tts": "node src/tts.js",
+    "stt": "node src/stt.js",
+    "sttt": "node src/sttt.js"
   },
   "keywords": [],
   "author": "",
